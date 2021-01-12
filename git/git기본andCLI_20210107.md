@@ -109,7 +109,7 @@ git을 통해 스냅샷을 찍음(==버전을 만듬, 현재 상태를 저장)
 
 ---
 
-![](C:\Users\soowo\Desktop\git 저장과정.PNG)
+![](C:\Users\soowo\Desktop\kd\강의자료\git 저장과정.)
 
 
 
