@@ -105,20 +105,6 @@ git을 통해 스냅샷을 찍음(==버전을 만듬, 현재 상태를 저장)
   3. 메시지
 4. commit hash (commit을 구분하기 위한 ID라고 생각,random하게 들어옴)
 
-
-
----
-
-![](C:\Users\soowo\Desktop\git 저장과정.PNG)
-
-
-
-
-
-
-
-
-
 ---
 
 ### `git config` commiter 설정
