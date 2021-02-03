@@ -85,7 +85,7 @@ DROP INDEX 인덱스 이름 ON 테이블이름;
 
 #### 인덱스 성능/사용경우
 
-> google^^
+> googling , book
 
 
 
