@@ -112,7 +112,7 @@ git을 통해 스냅샷을 찍음(==버전을 만듬, 현재 상태를 저장)
 commit 한 사람의 정보를  넣어줘야 함
 
 * `git config --global user.name '사용자 이름'`
-* `git config --global user.email '사용자 이메일'`햣 
+* `git config --global user.email '사용자 이메일'`git
 
 
 
