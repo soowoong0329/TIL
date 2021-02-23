@@ -33,9 +33,9 @@ DF2
 
 * DataFrame 예시
 
-![](C:\Users\samsung\Desktop\kd\img\dataframe(pandas).PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/dataframe(pandas).PNG?raw=true)
 
-![](C:\Users\samsung\Desktop\kd\img\dataframe(DF1).PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/dataframe(DF1).PNG?raw=true)
 
 #### Information
 
@@ -68,38 +68,38 @@ DF1.values
 DF1.info()
 ```
 
-![](C:\Users\samsung\Desktop\kd\img\DF1.info.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/DF1.info.PNG?raw=true)
 
 ```python
 DF1.head()
 ```
 
-![](C:\Users\samsung\Desktop\kd\img\df.head.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/df.head.PNG?raw=true)
 
 ```python
 DF1[0:5]
 ```
 
-![](C:\Users\samsung\Desktop\kd\img\df05.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/df05.PNG?raw=true)
 
 ```python
 DF1.tail(3)
 ```
 
-![](C:\Users\samsung\Desktop\kd\img\dftail.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/dftail.PNG?raw=true)
 
 ```python
 DF1[-3:]
 ```
 
-![](C:\Users\samsung\Desktop\kd\img\df-3.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/df-3.PNG?raw=true)
 
 ```python
 #요약통계자료(dType = 수치형만)
 DF1.describe()
 ```
 
-![](C:\Users\samsung\Desktop\kd\img\dfdescribe.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/dfdescribe.PNG?raw=true)
 
 ---
 
