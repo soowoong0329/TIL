@@ -68,7 +68,7 @@ a3 = np.array([[[1,2],
 print(a3)
 ```
 
-![](https://github.com/soowoong0329/TIL/blob/master//3_tensor.PNG?raw=true)
+![](https://github.com/soowoong0329/TIL/blob/master/img/3_tensor.PNG?raw=true)
 
 ---
 
