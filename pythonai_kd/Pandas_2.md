@@ -52,7 +52,7 @@ DF.info()
 DF['deck'].value_counts(dropna = False) # dropna = False : 결측치 출력
 ```
 
-![](C:\Users\samsung\Desktop\dropnafalse.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/missing_data/dropnafalse.PNG?raw=true)
 
 * `.isnull()` : 결측치를 'True' 로 출력
 
@@ -60,7 +60,7 @@ DF['deck'].value_counts(dropna = False) # dropna = False : 결측치 출력
 DF.head(10).isnull()
 ```
 
-![](C:\Users\samsung\Desktop\isnull.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/missing_data/isnull.PNG?raw=true)
 
 * 각 Column 별로 결측치 개수 확인
 
