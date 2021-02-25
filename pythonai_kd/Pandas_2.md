@@ -64,7 +64,7 @@ DF.head(10).isnull()
 
 * 각 Column 별로 결측치 개수 확인
 
-![](C:\Users\samsung\Desktop\axis.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/missing_data/axis.PNG?raw=true)
 
 ```python
 DF.isnull().sum(axis=0)
@@ -76,7 +76,7 @@ DF.isnull().sum(axis=0)
 DF.head(10).notnull()
 ```
 
-![](C:\Users\samsung\Desktop\notnull.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/missing_data/notnull.PNG?raw=true)
 
 * 결측치가 300개 이상인 열 삭제
 
@@ -101,7 +101,7 @@ DF.dropna(subset = ['age'], how = 'any', axis = 0).shape
 DF['age'].head(10)
 ```
 
-![](C:\Users\samsung\Desktop\agebefore.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/missing_data/agebefore.PNG?raw=true)
 
 ```python
 DF['age'].fillna(int(DF['age'].mean(axis=0, inplace = True)))
@@ -110,7 +110,7 @@ DF['age'].fillna(int(DF['age'].mean(axis=0, inplace = True)))
 * `inplace = True`
   * 원래 DataFrame에 결측치를 치환함(원래 DataFrame에서 결측치가 없어짐)
 
-![](C:\Users\samsung\Desktop\ageafter.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/missing_data/ageafter.PNG?raw=true)
 
 * 명목형 데이터 치환
   * ex) 'embark_town'의 결측치를 최빈값으로 치환
@@ -119,12 +119,12 @@ DF['age'].fillna(int(DF['age'].mean(axis=0, inplace = True)))
 DF['embark_town'][825:830]
 ```
 
-![](C:\Users\samsung\Desktop\embarkbf.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/missing_data/embarkbf.PNG?raw=true)
 
 * 최빈값 확인하기
 
 ```python
-![fillbf](C:\Users\samsung\Desktop\fillbf.PNG)most_freq = DF['embark_town'].value_counts(dropna = True).idmax()
+![fillbf]https://github.com/soowoong0329/TIL/blob/master/img/missing_data/fillbf.PNG?raw=true)most_freq = DF['embark_town'].value_counts(dropna = True).idmax()
 
 most_freq
 
@@ -139,7 +139,7 @@ DF['embark_town'].fillna(most_freq, inplace = True)
 DF['embark_town'][825:830]
 ```
 
-![](C:\Users\samsung\Desktop\embarkaf.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/missing_data/embarkaf.PNG?raw=true)
 
 * 이전 데이터포인트로 치환하기
 
@@ -149,7 +149,7 @@ DF = sns.load_dataset('titanic')
 DF['embark_town'][828:831]
 ```
 
-![]()![fillbf](C:\Users\samsung\Desktop\fillbf.PNG)
+![]()![fillbf](https://github.com/soowoong0329/TIL/blob/master/img/missing_data/fillbf.PNG?raw=true)
 
 ```python
 DF['embark_town'].fillna(mathod='ffill',inplace = True) #ffill : 이전(forward) 데이터포인트로 치환
@@ -158,7 +158,7 @@ DF['embark_town'].fillna(mathod='ffill',inplace = True) #ffill : 이전(forward)
 DF['embark_town'][828:831]
 ```
 
-![](C:\Users\samsung\Desktop\ffill.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/missing_data/ffill.PNG?raw=true)
 
 * 다음 데이터포인트로 치환
 
@@ -172,7 +172,7 @@ DF['embark_town'].fillna(method='bfill', inplace = True) # back
 DF['embark_town'][828:831]
 ```
 
-![](C:\Users\samsung\Desktop\bfill.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/missing_data/bfill.PNG?raw=true)
 
 ---
 
