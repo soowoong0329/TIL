@@ -122,7 +122,7 @@ DF2
 pd.concat([DF1,DF2],axis = 0)
 ```
 
-![](C:\Users\samsung\Desktop\concat.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/pandas_propreprocessing/concat.PNG?raw=true)
 
 * ignore_index = True : 인덱스 연결
 
@@ -130,7 +130,7 @@ pd.concat([DF1,DF2],axis = 0)
 pd.concat([DF1,DF2],axis = 0, ignore_index = True)
 ```
 
-![](C:\Users\samsung\Desktop\concat_ignore.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/pandas_propreprocessing/concat_ignore.PNG?raw=true)
 
 * 열기준 , axis = 1, inner join
 
@@ -138,7 +138,7 @@ pd.concat([DF1,DF2],axis = 0, ignore_index = True)
 pd.concat([DF1,DF2], axis = 1, join ='inner')
 ```
 
-![](C:\Users\samsung\Desktop\concatinner.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/pandas_propreprocessing/concatinner.PNG?raw=true)
 
 * 열기준, axis =1, outer join
 
@@ -146,7 +146,7 @@ pd.concat([DF1,DF2], axis = 1, join ='inner')
 pd.concat([DF1,DF2], axis = 1, join = 'outer')
 ```
 
-![](C:\Users\samsung\Desktop\concatouter.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/pandas_propreprocessing/concatouter.PNG?raw=true)
 
 ---
 
@@ -166,7 +166,7 @@ pd.merge(DF1,DF2)
 pd.merge(DF1,DF2, how = 'outer')
 ```
 
-![](C:\Users\samsung\Desktop\mergeouter.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/pandas_propreprocessing/mergeouter.PNG?raw=true)
 
 * how = 'left'
 
@@ -174,7 +174,7 @@ pd.merge(DF1,DF2, how = 'outer')
 pd.merge(DF1,DF2, how = 'left')
 ```
 
-![](C:\Users\samsung\Desktop\mergeleft.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/pandas_propreprocessing/mergeleft.PNG?raw=true)
 
 * how = 'right'
 
@@ -182,7 +182,7 @@ pd.merge(DF1,DF2, how = 'left')
 pd.merge(DF1,DF2, how = 'right')
 ```
 
-![](C:\Users\samsung\Desktop\mergeright.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/pandas_propreprocessing/mergeright.PNG?raw=true)
 
 ---
 
@@ -217,7 +217,7 @@ grouped
       print('\n')
   ```
 
-![](C:\Users\samsung\Desktop\grouped.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/pandas_propreprocessing/grouped.PNG?raw=true)
 
 ```python
 grouped.mean() # 그룹별 평균
@@ -245,7 +245,7 @@ for key, group in grouped_TWO :
     print('\n')
 ```
 
-![](C:\Users\samsung\Desktop\grouped2.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/pandas_propreprocessing/grouped2.PNG?raw=true)
 
 ```python
 grouped_TWO.mean() # 그룹별 평균
@@ -266,13 +266,13 @@ grouped_TWO.get_group('First','female').head(3) # 그룹별 정보 확인
 grouped.agg(['mean','std'])
 ```
 
-![](C:\Users\samsung\Desktop\agg.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/pandas_propreprocessing/agg.PNG?raw=true)
 
 ```python
 grouped.agg({'fare' : ['mix','max'], 'age' : ['mean','std']})
 ```
 
-![](C:\Users\samsung\Desktop\agg2.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/pandas_propreprocessing/agg2.PNG?raw=true)
 
 ---
 
@@ -292,7 +292,7 @@ DF['z_score'] = grouped.age.transform(z_score)
 DF.head(3)
 ```
 
-![](C:\Users\samsung\Desktop\zscore.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/pandas_propreprocessing/zscore.PNG?raw=true)
 
 #### lambda
 
@@ -304,7 +304,7 @@ DF.head(3)
 grouped.apply(lambda x: x.describe())
 ```
 
-![](C:\Users\samsung\Desktop\describe.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/pandas_propreprocessing/describe.PNG?raw=true)
 
 ---
 
@@ -323,13 +323,13 @@ grouped_MI.mean()
 grouped_MI.mean().xs('First',level='class')
 ```
 
-![](C:\Users\samsung\Desktop\xsclass.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/pandas_propreprocessing/xsclass.PNG?raw=true)
 
 ```python
 grouped_MI.mean().xs(['First','male'], level = ['class','sex'])
 ```
 
-![](C:\Users\samsung\Desktop\xs2.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/pandas_propreprocessing/xs2.PNG?raw=true)
 
 ---
 
