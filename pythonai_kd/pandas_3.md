@@ -15,6 +15,7 @@ DF = titanic.loc[:, ['age','fare']].head(5) # loc == 조회하기
 DF
 ```
 
+![](https://github.com/soowoong0329/TIL/blob/master/img/missing_data/axis.PNG?raw=true)
 
 
 #### apply(axis = 0)
