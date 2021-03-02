@@ -2,9 +2,9 @@
 
 ### apply()
 
-* Dataframe을 특정조건에 맞는 값을 변경하기 위한 함수
+* Dataframe을 특정조건에 맞는 값을 변경하기 위한 함수이다.
 
-* titanic dataset 이용
+* titanic dataset 이용함.
 
 ```python
 import seaborn as sns
@@ -125,7 +125,7 @@ pd.concat([DF1,DF2],axis = 0)
 
 ![](https://github.com/soowoong0329/TIL/blob/master/img/pandas_propreprocessing/concat.PNG?raw=true)
 
-* ignore_index = True : 인덱스 연결
+* ignore_index = True : 인덱스 연결한다.
 
 ```python
 pd.concat([DF1,DF2],axis = 0, ignore_index = True)
@@ -155,7 +155,7 @@ pd.concat([DF1,DF2], axis = 1, join = 'outer')
 
 ### `merge()`
 
-* 두 데이터프레임을 각 데이터에 존재하는 key값을 기준으로 병합할 때 사용
+* 두 데이터프레임을 각 데이터에 존재하는 key값을 기준으로 병합할 때 사용한다.
 
 ```python
 pd.merge(DF1,DF2)
