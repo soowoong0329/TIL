@@ -147,7 +147,7 @@ $$
 
 * Cost Function() **값(MSE)을 최소**로 하는 **Parameter(w,b) 값을 찾는 것**이 목적 !
 
-![](C:\Users\samsung\Desktop\kd\mse.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/mse.PNG?raw=true)
 
 * w : 실제로는 w도 바뀌기 때문에 공간 상에서 최소값을 찾아가는 느낌
 
