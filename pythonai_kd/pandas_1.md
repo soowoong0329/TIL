@@ -24,7 +24,7 @@ DF1 = pd.read_csv('파일이름.csv')
 DF1
 ```
 
-> CSV(Comma Seperate Value) : Excel에서 excelfile처럼 열어줌 , CSV파일은 sheet 개념 X
+> CSV(Comma Seperate Value) : Excel에서 excelfile처럼 열어줌 , CSV파일은 sheet 개념 X !!
 
 ```python
 DF2 = pd.read_excel('파일이름.xlsx')
