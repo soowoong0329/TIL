@@ -152,7 +152,7 @@
   * 확률변수 X에 대해서 확률변수 X가 특정값보다 작거나 같은 확률
   * F(x) = P(X<=x)
 
-![](C:\Users\samsung\Desktop\dist_func.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/dist_func.PNG?raw=true)
 
 * 누적분포 함수 종류
   * 이산형 : 확률질량함수
