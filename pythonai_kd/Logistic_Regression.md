@@ -57,7 +57,7 @@
 * y를 Cross-Entropy 의 가중치로 적용(이진분류 : 0 or 1)
 * Binary Cross-Entropy Error = -y * log(y_hat) - (1-y) * log(1- y_hat)
 
-![](C:\Users\samsung\Desktop\cee.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/cee.PNG?raw=true)
 
 
 
