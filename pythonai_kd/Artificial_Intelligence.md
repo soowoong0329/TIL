@@ -118,7 +118,7 @@ $$
 
 #### Regression Analysis(수치 예측)
 
-![](https://static.thenounproject.com/png/239043-200.png![image](https://user-images.githubusercontent.com/77090825/111031767-7cbbde80-844c-11eb-9933-83e9dfe3ea6e.png)
+![](https://static.thenounproject.com/png/239043-200.png)
 )
 
 #### Loss Function()
