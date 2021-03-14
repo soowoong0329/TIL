@@ -41,11 +41,14 @@ from sklearn.preprocessing import StandardScaler
 
 ### Standardization(표준화)
 
+
 * 데이터가 평균으로부터 얼마나 떨어져 있는지?
 
 * 변수의 평균을 0 , 표준편차를 1로 만들어 **표준정규분포**의 특징을 갖게 함
 * 표준화는 가중치 학습을 더 쉽게 할 수 있도록 함
 * 특정 범위를 벗어난 데이터는 outlier로 간주하고 제거한다.
+
+![](https://www.oreilly.com/library/view/hands-on-machine-learning/9781788393485/assets/7a9d8cb9-10f7-43b5-b52f-865fbbb0b69e.png)
 
 ---
 
