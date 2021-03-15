@@ -5,7 +5,7 @@
 * 범주형 자료 : classification tree(분류 나무)
 * 수치형 자료 : regression tree(예측 나무)
 
-![](C:\Users\samsung\Desktop\decisiontree.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/decisiontree.PNG?raw=true)
 
 | Decision Tree |                                                      |
 | ------------- | ---------------------------------------------------- |
