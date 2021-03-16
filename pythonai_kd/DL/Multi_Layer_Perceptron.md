@@ -13,7 +13,7 @@
   * 수상돌기 = 입력, 축색 = 출력
   * 시냅스 = 가중값(Weight)을 갖는 연결네트워크, 신경세포체 = 노드
 
-![](C:\Users\samsung\Desktop\neural.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/DL/neural.PNG?raw=true)
 
 ### Perceptron
 
@@ -22,7 +22,7 @@
 * 노드 입력값(Input, x)과 가중치(Weight, w) **곱**을 모두 합함 + bias(b)
   * 합한 값이 활성화함수(sigmoid())의 임계치(0.5) 보다 작으면 0 , 크면 1 출력
 
-![](C:\Users\samsung\Desktop\logicgates.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/DL/logicgates.PNG?raw=true)
 
 > https://www.youtube.com/watch?v=tYxkIOTdeu8
 
@@ -38,7 +38,7 @@
 
 > 대문자 == 행렬
 
-![](C:\Users\samsung\Desktop\logicgates2.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/DL/logicgates2.PNG?raw=true)
 
 * **XOR Multi Layer**
 
@@ -90,7 +90,7 @@
   * 입력변수(x) 가 변할 때, 함수 f(x)의 변화량
   * 함수 f(x),y 가 입력변수에 얼마나 민감하게 반응하는지?
 
-![](C:\Users\samsung\Desktop\lim.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/DL/lim.PNG?raw=true)
 
 #### 편미분
 
@@ -114,7 +114,7 @@
 
 * 오차의 최소화 하기위해 사용한다.
 
-![](C:\Users\samsung\Desktop\centrallim.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/DL/centrallim.PNG?raw=true)
 
 ---
 
