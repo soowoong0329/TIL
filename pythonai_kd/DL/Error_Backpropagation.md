@@ -28,9 +28,9 @@
   * sigmoid() : 함수 **각각의 출력값이 0 ~ 1 사이 값**을 가짐
   * softmax() : **전체 출력값의 합이 1**이되어야 하기 때문에 학습효과가 증가
 
-![](C:\Users\samsung\Desktop\softmaxformula.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/DL/softmaxformula.PNG?raw=true)
 
-![](C:\Users\samsung\Desktop\graphsigsoft.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/DL/graphsigsoft.PNG?raw=true)
 
 
 
@@ -176,7 +176,7 @@
   * 바로 **직전 시점의 가중치**업데이터 변화량을 적용
   * 바로 직전의 가중치를 더해주는 방식
 
-![](C:\Users\samsung\Desktop\momentum.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/DL/momentum.PNG?raw=true)
 
 #### Adaptive Gradient(Adagrad)
 
@@ -194,7 +194,7 @@
 
   ​       보폭을 줄이는 것과 같다고 생각하면 쉬움
 
-![](C:\Users\samsung\Desktop\adaptive.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/DL/adaptive.PNG?raw=true)
 
 #### Root MEAN Square Propagation(RMSProp)
 
