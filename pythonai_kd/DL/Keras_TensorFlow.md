@@ -51,16 +51,16 @@
 * (3,5,5) : Rank 3 Tensor
 * (Number of Images, Rows, Columns)
 
-![](C:\Users\samsung\Desktop\grayimg.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/DL/grayimg.PNG?raw=true)
 
 #### Tensor in RGB Color Image
 
 * (3,5,5,3) : Rank 4 Tensor
 * (Number of Images, Rows, Columns, RGB Chnnel)
 
-![](C:\Users\samsung\Desktop\rgbimg.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/DL/rgbimg.PNG?raw=true)
 
-![](C:\Users\samsung\Desktop\rgb3d.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/DL/rgb3d.PNG?raw=true)
 
 ---
 
@@ -69,13 +69,13 @@
 * (3,5,600,800,3) : Rank 5 Tensor
 * (Video Frames, Number of Images, Rows, Columns, RGB Channel)
 
-![](C:\Users\samsung\Desktop\video.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/DL/video.PNG?raw=true)
 
 ---
 
 ### Keras Modeling
 
-![](C:\Users\samsung\Desktop\modelingkeras.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/DL/modelingkeras.PNG?raw=true)
 
 
 
