@@ -75,7 +75,7 @@
 
 ### Keras Modeling
 
-![](https://github.com/soowoong0329/TIL/blob/master/img/DL/modelingkeras.PNG?raw=true)
+![](https://github.com/soowoong0329/TIL/blob/master/img/modelingkeras.PNG?raw=true)
 
 
 
