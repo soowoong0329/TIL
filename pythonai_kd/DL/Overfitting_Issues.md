@@ -2,7 +2,7 @@
 
 * Train 데이터에만 최적화 된 상태
 
-![](C:\Users\samsung\Desktop\overfitting.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/DL/overfitting.PNG?raw=true)
 
 ### Train Loss VS Validation Loss
 
