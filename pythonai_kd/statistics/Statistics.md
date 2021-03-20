@@ -50,6 +50,8 @@
 
 ![](https://naysan.ca/wp-content/uploads/2020/06/box_plot_ref_needed.png)
 
+> *source : https://naysan.ca/wp-content/uploads/2020/06/box_plot_ref_needed.png*
+
 * 분산(Variance)
 
   * 관측치들이 **평균에서 평균적으로 얼마나 떨어져 있는지** 확인
