@@ -50,7 +50,7 @@
 
 #### Multi Layer Perceptron(MLP)
 
-* 다중 퍼셉트론 : 퍼셉트론으로 해결할 수 없는 비선형 분리 문제에 필요
+* 다중 Perceptron : 퍼셉트론으로 해결할 수 없는 비선형 분리 문제에 필요
 * 여러 층(Layer)의 퍼셉트론을 쌓아서 동작(Input - Hidden - Output)
   * Single Layer보다 **Model의 Capacity가 높아져** , 더 어려운 데이터 처리 가능하다.
   * 선 하나하나가 Parameter,가중치(Weight) 라고 생각
