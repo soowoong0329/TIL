@@ -8,7 +8,7 @@
 
 1. **더 많은 Train Data**
    
-   * 실제로 성능이 좋아질까? ==> **좋아짐**
+   * 실제로 성능이 좋아질까? ==> **좋아질 수 있다.**
 2. **Model Capacity**
    * Capacity에 영향을 주는 것은 Parameter
    * **Model 스펙이 너무 높아서 과적합이 나타날 수 있다.**
@@ -21,7 +21,7 @@
 
    * 가중치의 제곱(L2 = ridge)에 비례하는 노이즈를 Cost Function에 추가
    * 가중치 감소: Weight Decay
-   * L1 or elastic 둘 다 가능(Regularization 실습 참고)
+   * L1 or lastic 둘 다 가능(Regularization 실습 참고)
 
    > DNN_mnist_Categorical
 
