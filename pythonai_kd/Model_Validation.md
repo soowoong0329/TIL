@@ -35,9 +35,8 @@
 
 * Training Data에 Model을 적용하여 확인한 실제값과 예측값의 차이(오차)
 
-* $$
-  mean((y- \hat y)^2)
-  $$
+* mean((y- \hat y)^2)
+  
 
 * 여러 개의 Model을 생성 후 각각의 Training Error(MSE)를 비교
 
