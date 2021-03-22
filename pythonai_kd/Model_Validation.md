@@ -71,7 +71,7 @@
   * 일반화된 Model을 만드는(학습시키는) 것
   * Model 생성(학습) 시 사용되지 않은 data에서도 유사한 성능을 제공할 수 있어야 한다.
   * training error 와 test error(MSE)가 gap이 크면 안된다.(일반화된 모델의 목적)
-    * == overfitting(과적합) 되지 않았다고 말할 수 있다.
+    * overfitting(과적합) 되지 않았다고 말할 수 있다.
 
 ### Validation Approach
 
