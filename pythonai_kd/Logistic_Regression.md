@@ -82,6 +82,8 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/a/a1/ConfusionMatrixRedBlue.png)
 
+> *source : https://upload.wikimedia.org/wikipedia/commons/a/a1/ConfusionMatrixRedBlue.png*
+
 ---
 
 ### Business Impact (어떤일에 부정적 영향?)
