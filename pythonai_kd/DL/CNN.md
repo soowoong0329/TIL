@@ -66,7 +66,7 @@ DNN은 결국 Hyper Parameter 들을 어떻게 넣어서 모델의 성능을 향
 
 #### Padding
 
-<img src="https://img1.daumcdn.net/thumb/R720x0.q80/?scode=mtistory2&fname=http%3A%2F%2Fcfile22.uf.tistory.com%2Fimage%2F9916C23F5BC97EEE31EF65" style="zoom:80%;" />
+<img src="https://img1.daumcdn.net/thumb/R720x0.q80/?scode=mtistory2&fname=http%3A%2F%2Fcfile22.uf.tistory.com%2Fimage%2F9916C23F5BC97EEE31EF65" style="zoom:67%;" />
 
 * Padding은 **출력 크기를 조정** 목적으로 사용
 * 합성곱 연산을 수행하기 전에 Input_Data주변을 0으로 채우는 것
