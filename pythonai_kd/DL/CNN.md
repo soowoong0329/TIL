@@ -42,7 +42,7 @@ DNN은 결국 Hyper Parameter 들을 어떻게 넣어서 모델의 성능을 향
 
 #### Stride
 
-<img src="https://taewanmerepo.github.io/2018/01/cnn/filter.jpg" style="zoom:67%;" />
+<img src="https://taewanmerepo.github.io/2018/01/cnn/filter.jpg" style="zoom: 33%;" />
 
 > *source : http://taewan.kim/post/cnn/*
 
@@ -53,7 +53,7 @@ DNN은 결국 Hyper Parameter 들을 어떻게 넣어서 모델의 성능을 향
 
 #### Pooling
 
-<img src="https://taewanmerepo.github.io/2018/02/cnn/maxpulling.png" style="zoom: 67%;" />
+<img src="https://taewanmerepo.github.io/2018/02/cnn/maxpulling.png" style="zoom: 33%;" />
 
 > *source : http://taewan.kim/post/cnn/*
 
@@ -77,13 +77,13 @@ DNN은 결국 Hyper Parameter 들을 어떻게 넣어서 모델의 성능을 향
 
 #### Channel
 
-<img src="https://dfzljdn9uc3pi.cloudfront.net/2021/cs-338/1/fig-2-2x.jpg" style="zoom:50%;" />
+<img src="https://kjh107704.github.io/assets/img/postImg/2020-07-06-14-47-50.png" style="zoom:67%;" />
 
 * n차원 데이터 : **n차원 Filter**를 사용하여 합성곱 연산 수행
 * Input_Data의 채널 수와 Filter의 채널 수는 같아야함
   * Tensorflow 에서 channel은 자동으로 맞춰짐
 
-
+> *source : https://kjh107704.github.io/posts/DL-CNN-3/*
 
 #### Classification
 
