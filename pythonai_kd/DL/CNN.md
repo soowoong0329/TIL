@@ -26,7 +26,7 @@ DNN은 결국 Hyper Parameter 들을 어떻게 넣어서 모델의 성능을 향
 
 #### Filter
 
-![](C:\Users\samsung\Desktop\cnnfilter.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/DL/cnnfilter.PNG?raw=true)
 
 * Filter를 Input_Data에 적용하여 **특징 맵(Feature Map)** 생성
 
@@ -93,7 +93,7 @@ DNN은 결국 Hyper Parameter 들을 어떻게 넣어서 모델의 성능을 향
 
 #### Convolusion을 거치면서 Feature Map 한(one) 픽셀이 가지는 함축적으로 학습한 특징이 많아진다.(=한 픽셀이 포함하고 있는 이미지의 범위가 넓어진다.)
 
-![](C:\Users\samsung\Desktop\cnnclassification.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/DL/cnnclassification.PNG?raw=true)
 
 > *source : https://hunkim.github.io/ml/lab11.pdf*
 
