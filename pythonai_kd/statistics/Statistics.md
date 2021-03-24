@@ -216,6 +216,8 @@
 
 ![](https://snappygoat.com/b/c85622872c1a807d09bbb4b233c03a50c2722928)
 
+> *source : https://snappygoat.com/b/c85622872c1a807d09bbb4b233c03a50c2722928*
+
 ---
 
 > t ,f , chi  distribution 참고
