@@ -205,6 +205,8 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/1b/Normal_distribution_pdf.png)
 
+> *source : https://upload.wikimedia.org/wikipedia/commons/1/1b/Normal_distribution_pdf.png*
+
 * **표준변환(Z-transform)**에 의해 표준 정규분포로 변환가능
 
 ### 표준 정규 분포
