@@ -85,7 +85,7 @@
   *  Feature Extraction : Parameter 재사용
   * Classification : Parameter학습(기존에 것 사용불가, 우리에 데이터에 맞는 새로운 parameter 로 학습)
 
-![](https://github.com/soowoong0329/TIL/blob/master/img/DL/feature extraction.PNG?raw=true)
+![](https://github.com/soowoong0329/TIL/blob/master/img/DL/feature_extraction.PNG?raw=true)
 
 
 
