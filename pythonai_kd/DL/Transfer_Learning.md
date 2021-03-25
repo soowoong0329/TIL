@@ -59,7 +59,7 @@
 * GoogleNet의 약 7배dls 152 Layers로 구성
 * Layer가 깊어져 학습이 안되는 문제(Vanishing Gradient)를 **Skip Connection**을 통해 해결
 
-![](C:\Users\samsung\Desktop\resnet.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/DL/resnet.PNG?raw=true)
 
 ---
 
@@ -85,7 +85,7 @@
   *  Feature Extraction : Parameter 재사용
   * Classification : Parameter학습(기존에 것 사용불가, 우리에 데이터에 맞는 새로운 parameter 로 학습)
 
-![](C:\Users\samsung\Desktop\feature extraction.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/DL/feature extraction.PNG?raw=true)
 
 
 
