@@ -90,4 +90,13 @@
 
 
 #### Fine Tuning 
+<img src="https://miro.medium.com/max/800/0*Eyhhx33AK58cHDXZ.png" style="zoom:67%;" />
 
+<img src="https://blog.keras.io/img/imgclf/vgg16_modified.png" style="zoom:50%;" />
+
+> *source : http://melvincabatuan.github.io/Image-Classification-With-Little-Data-Keras-Tutorial-VGG/*
+> *source : https://becominghuman.ai/what-is-deep-learning-and-its-advantages-16b74bc541a1*
+
+* **기존에 학습되어 있는 모델을 기반으로 모델의 parameter 조정**
+
+> google drive 실습확인 必
