@@ -47,6 +47,8 @@
 * 학습한 결과가 training data에만 최적화된 모델을 생성
   * 모델 생성 시 활용하지 않은 data에서 성능이 급격히 낮아짐
 
+![](https://raw.githubusercontent.com/alexeygrigorev/wiki-figures/master/crs/ds/overfitting.png)
+
 ---
 
 #### Generalization Error
