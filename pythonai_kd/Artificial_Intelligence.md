@@ -121,6 +121,7 @@ $$
 ![](https://static.thenounproject.com/png/239043-200.png)
 
 ![](http://donsoft.io/deep-learning-with-rnns/images/gradient_descent_cropped.gif)
+> *source : https://devlog.jwgo.kr/2019/10/04/loss-func-visualization/*
 
 #### Loss Function()
 
