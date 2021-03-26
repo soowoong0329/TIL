@@ -49,6 +49,8 @@
 
 ![](https://raw.githubusercontent.com/alexeygrigorev/wiki-figures/master/crs/ds/overfitting.png)
 
+> *source : http://mlwiki.org/index.php/Overfitting*
+
 ---
 
 #### Generalization Error
