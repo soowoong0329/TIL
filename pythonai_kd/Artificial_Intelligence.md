@@ -120,6 +120,7 @@ $$
 
 ![](https://static.thenounproject.com/png/239043-200.png)
 
+![](http://donsoft.io/deep-learning-with-rnns/images/gradient_descent_cropped.gif)
 
 #### Loss Function()
 
