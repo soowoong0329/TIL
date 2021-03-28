@@ -69,7 +69,7 @@
 
 * 요즘 많이 사용
 
-![](https://ichi.pro/assets/images/max/724/1*4F-9zrU07yhwj6gChX_q-Q.png)
+![](https://miro.medium.com/max/724/1*4F-9zrU07yhwj6gChX_q-Q.png)
 
 > *source : https://ichi.pro/assets/images/max/724/1*4F-9zrU07yhwj6gChX_q-Q.png
 
