@@ -59,6 +59,8 @@
 
 ![](https://snappygoat.com/b/e2812ac9096827e98fc5c73f8ecd19f0fbc29099)
 
+> *source : https://snappygoat.com/b/e2812ac9096827e98fc5c73f8ecd19f0fbc29099*
+
 ---
 
 ### Deep Neural Network(DNN)
