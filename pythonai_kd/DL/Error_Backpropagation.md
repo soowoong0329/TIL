@@ -131,7 +131,9 @@
 
 ### Optimization Method : 최적화 기법
 
-> *source :http://shuuki4.github.io/deep%20learning/2016/05/20/Gradient-Descent-Algorithm-Overview.html*
+
+
+> *http://shuuki4.github.io/deep%20learning/2016/05/20/Gradient-Descent-Algorithm-Overview.html* 꼭 확인 ! 참조하기 !
 
 | Optimization Method              |                  |
 | -------------------------------- | ---------------- |
