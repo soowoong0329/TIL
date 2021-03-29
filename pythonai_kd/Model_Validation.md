@@ -74,7 +74,7 @@
 * Modeling 목적
   * 일반화된 Model을 만드는(학습시키는) 것
   * Model 생성(학습) 시 사용되지 않은 data에서도 유사한 성능을 제공할 수 있어야 한다.
-  * training error 와 test error(MSE)가 gap이 크면 안된다.(일반화된 모델의 목적)
+  * **training error 와 test error(MSE)가 gap이 크면 안된다.**(일반화된 모델의 목적)
     * overfitting(과적합) 되지 않았다고 말할 수 있다.
 
 ### Validation Approach
@@ -89,7 +89,7 @@
 
 #### Testing Error
 
-* Testing Data에 최적 Model을 적용하여 얻은 실제값과 예측값의 차이(오차)
+* Testing Data에 최적 Model을 적용하여 얻은 **실제값과 예측값의 차이(오차)**
 * Testing Error를 사용하여 실무 데이터에 대한 Generalization Error를 추정
 * Training Data를 Training Data와 Validation Data로 분리하여 모델을 평가
 
