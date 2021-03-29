@@ -27,6 +27,8 @@
   * **0 or 1** 로 분류
   * ex) 구매고객  : 남자? 여자?, 물건 : 정상? 불량?, 코로나 검사 : 양성? 음성?
 * 다중(Categorical)
+  * 3개 이상 분류
+  * categorical calssification
 
 ---
 
