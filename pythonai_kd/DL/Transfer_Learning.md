@@ -90,6 +90,7 @@
 
 
 #### Fine Tuning 
+
 <img src="https://miro.medium.com/max/800/0*Eyhhx33AK58cHDXZ.png" style="zoom:67%;" />
 
 <img src="https://blog.keras.io/img/imgclf/vgg16_modified.png" style="zoom:50%;" />
@@ -98,5 +99,8 @@
 > *source : https://becominghuman.ai/what-is-deep-learning-and-its-advantages-16b74bc541a1*
 
 * **기존에 학습되어 있는 모델을 기반으로 모델의 parameter 조정**
+* **Fine Tuning**
+ * 이미 충분히 학습된 모델을 사용하면, Gradient Descent(경사하강)으로 이미 최소값 근처에 있기 때문에,
+   가중치(학습률)을 너무 큰 값을 주게 되면 발산해버릴 수 있기 대문에, 굉장히 작게 설정해줘야 한다 !
 
 > google drive 실습확인 必
