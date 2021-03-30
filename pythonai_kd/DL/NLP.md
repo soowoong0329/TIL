@@ -188,7 +188,7 @@
 
   * ed2 :  남자와 공주의 유사도
 
-  ![](C:\Users\samsung\Desktop\euclidean.PNG)
+  ![](https://github.com/soowoong0329/TIL/blob/master/img/DL/euclidean.PNG?raw=true)
 
 #### Cosine Similarity
 
@@ -201,7 +201,7 @@
 * 사잇각이 작을 수록 유사도 높음
 * 벡터의 크기가 아닌 방향성 기반
 
-![](C:\Users\samsung\Desktop\cosine.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/DL/cosine.PNG?raw=true)
 
 ---
 
