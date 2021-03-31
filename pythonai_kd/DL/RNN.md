@@ -56,7 +56,7 @@
   * 앞 뒤 순서(상호관계) 가 존재하는 시계열 데이터
   * 텍스트나 음성 데이터 처리(번역,음성인식,음악,동영상)
 
-![](C:\Users\samsung\Desktop\rnncell.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/DL/rnncell.PNG?raw=true)
 
 ![](https://miro.medium.com/max/700/1*WMnFSJHzOloFlJHU6fVN-g.gif)
 
@@ -71,7 +71,7 @@
   * Sequence Data 처리에 적합
   * 전 단계에 ht-1(전단계의 output) * Wh == 기억을 전달
 
-![](C:\Users\samsung\Desktop\rnntanh.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/DL/rnntanh.PNG?raw=true)
 
 ---
 
