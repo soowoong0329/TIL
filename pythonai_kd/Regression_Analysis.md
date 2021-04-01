@@ -51,7 +51,7 @@ from sklearn.preprocessing import StandardScaler
 * 표준화는 가중치 학습을 더 쉽게 할 수 있도록 함
 * 특정 범위를 벗어난 데이터는 outlier로 간주하고 제거한다.
 
-![](https://www.oreilly.com/library/view/hands-on-machine-learning/9781788393485/assets/7a9d8cb9-10f7-43b5-b52f-865fbbb0b69e.png)
+![](https://github.com/soowoong0329/TIL/blob/master/img/standardization.PNG?raw=true)
 
 ---
 
