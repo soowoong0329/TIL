@@ -6,7 +6,7 @@
 
 * 인공 신경망(Artificial Neural Network) : ANN
   * **머신러닝** 분야에서 연구되는 **학습 알고리즘**
-    * 최적의 w,b를 update
+    * 최적의 w,b를 Update
   * 수치예측, 범주예측, 패턴인식, 제어분야에 응용
 * **인간의 뇌 구조**를 모방하여 만들어짐(신경세포 : Neuron)
   * 수상돌기(Dendrite) , 시냅스(Synapse) , 신경세포체(Soma), 축색(Axon)
