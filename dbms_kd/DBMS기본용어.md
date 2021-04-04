@@ -35,7 +35,9 @@
       * 프로그램구현
         * 테스트
           * 유지보수
+![](https://lh3.googleusercontent.com/proxy/QzX74V9ViqWS0HSArips5UHIJ1-r9mJ7sKysfbN1HWmz3qSxaqSddwDcMArMXJWkwzte2UISnEJC0pMkqL7JPHuZb3MBmDBljFsdCseR1U32i7Wgp3w5kvPixkDPmTCFyokkSA-gsKABX4DPBq7Ne6ejdiDZMh3nrMtUU_YbOpt4q3l_V_GY2c2wwSSAiXiaS3IZvh5BW2DBzr5J)
 
+> *source : https://blog.naver.com/neos_rtos/220046199863*
 
 
 * 각 단계가 명확히 구분되에 프로젝트 진행 단계가 명확해짐
