@@ -26,7 +26,7 @@ DNN은 결국 Hyper Parameter 들을 어떻게 넣어서 모델의 성능을 향
 
 #### Filter
 
-![](C:\Users\samsung\Desktop\cnnfilter.PNG)
+![](https://github.com/soowoong0329/TIL/blob/master/img/DL/cnnfilter.PNG?raw=true)
 
 * Filter를 Input_Data에 적용하여 **특징 맵(Feature Map)** 생성
 
