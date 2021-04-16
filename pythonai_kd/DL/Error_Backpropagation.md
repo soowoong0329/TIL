@@ -84,7 +84,7 @@
 * Forward propagation을 수행하여 y_hat을 계산
   * y 와 y_hat을 사용하여 **오차값**계산
 * 학습 : 오차값이 감소하는 방향으로 weight 수정
-  * 효율적은 경사값(Gradient) 계산을 위해 Backpropagation 수행
+  * 효율적인 경사값(Gradient) 계산을 위해 Backpropagation 수행
   * Parameter Update를 위해 **출력층의 오차값을 은닉층으로 전달**
 * **미분의 연쇄법칙 + 오차 역전파 알고리즘**
   * **수치미분과정없이 학습을 위한 경사값 계산**
